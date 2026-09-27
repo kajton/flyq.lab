@@ -1,0 +1,5 @@
+$meta
+  title = FLYQ.LAB // Lyric Intelligence Engine
+  description = Algorytmiczna analiza warsztatu tekściarskiego: TTR, szkielet samogłoskowy, multisylabiki. Versus Mode 1v1.
+  tags = rap, nlp, analiza, rymy, versus
+superFetch = {import:super-fetch-plugin}
